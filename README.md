@@ -1,4 +1,4 @@
-# NotebookLM - Document QA System
+# BOOKMARK.AI - Document QAhttps://github.com/caydn250/NotebookLM/tree/main System
 
 A fully functional web app for question-answering over document corpus using smart retrieval techniques without vector embeddings or vector databases.
 
