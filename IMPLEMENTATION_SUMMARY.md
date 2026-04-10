@@ -1,8 +1,6 @@
-# Implementation Summary - NotebookLM
+# Implementation Summary - BOOKMARK.AI
 
-## ✅ Project Completed Successfully!
 
-A fully functional **Document Question-Answering Web Application** has been built with smart retrieval techniques, without vector embeddings or vector databases.
 
 ---
 
@@ -182,25 +180,11 @@ This prepends conversation history to new queries for context
 | GET | `/api/list-documents` | List docs | - | `{documents: [...]}` |
 | POST | `/api/clear-session/<session_id>` | Clear history | - | `{status: success}` |
 
----
 
-## 🚀 How to Run
 
-### Quick Start (3 steps)
-```bash
-# 1. Navigate to project
-cd c:\Users\Jayant\Desktop\NotebookLM
 
-# 2. Activate virtual environment
-.\venv\Scripts\activate
 
-# 3. Run Flask server
-cd backend && python app.py
-```
 
-Then open: **http://localhost:5000**
-
----
 
 ## ✨ Features in Action
 
